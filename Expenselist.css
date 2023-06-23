@@ -1,0 +1,26 @@
+.dateBox {
+    padding: 2px;
+    border-radius: 10px;
+    border: solid 3px rgb(148, 124, 124);
+    background-color: rgb(68, 16, 16);
+    color: white;
+    width: 100px;
+    text-align: center;
+}
+.expenseGrid{
+    display: grid;
+    grid-template-columns: 1fr 4fr 1fr;
+    background-color: rgb(26, 63, 91);
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    margin-bottom: 5px;
+}
+.expenseGrid .amount{
+background-color:  rgb(58, 6, 72);;
+width: 50px;
+height: 30px;
+border-radius: 10px;
+text-align: center;
+padding-top: 10px;
+}

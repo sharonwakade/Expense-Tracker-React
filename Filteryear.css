@@ -1,0 +1,8 @@
+.all select{
+    background-color:rgb(246, 239, 239);
+    color: rgb(40, 35, 35);
+    height: 30px;
+    width: 50px;
+    margin-left: 20px;
+    border-radius: 5px;
+}
